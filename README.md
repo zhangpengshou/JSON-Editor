@@ -1,18 +1,7 @@
-# Elegant JSON Editor
+# Update from Elegant JSON Editor
+Elegant JSON Editor is a very good software, but the firefox components are stop updated.
 
-## Preview
-![preivew](https://github.com/webpatch/JSON-Editor-Extension/blob/master/preview/20171123-143428.png?raw=true)
-
-## Install 
-
-### Firefox 
- 
-[Go to https://addons.mozilla.org](https://addons.mozilla.org/zh-CN/firefox/addon/elegant-json-editor/)
-
-### Chrome
-
-[Click to download!](https://github.com/webpatch/JSON-Editor-Extension/blob/master/dist/JSON-Editor-Extension.crx?raw=true)
-
+Updated Here
 
 ## Changelog
 
